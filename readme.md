@@ -1,6 +1,6 @@
 # Email Sender CLI 工具
 
-中文 | [English](https://github.com/jerry12122/mail-sender/Readme_en.md)
+中文 | [English](https://github.com/jerry12122/mail-sender/blob/main/Readme_en.md)
 
 這是一個使用 SMTP 發送電子郵件的命令行工具。它支持從配置文件中讀取 SMTP 設置。
 
